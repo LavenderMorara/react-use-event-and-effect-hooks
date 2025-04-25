@@ -1,0 +1,25 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "task": "Pull latest changes from remote repository",
+        "status": "incomplete"
+      },
+      {
+        "id": 2,
+        "task": "Create a new feature branch for updates",
+        "status": "incomplete"
+      },
+      {
+        "id": 3,
+        "task": "Commit and push recent code changes",
+        "status": "incomplete"
+      },
+      {
+        "id": 4,
+        "task": "Create a pull request and request review",
+        "status": "incomplete"
+      }
+    ]
+  }
+  
